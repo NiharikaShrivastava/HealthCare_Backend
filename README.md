@@ -328,3 +328,7 @@ For issues and questions, please check the API documentation or create an issue 
 ## License
 
 This project is licensed under the MIT License.
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-06 004655" src="https://github.com/user-attachments/assets/fcf6b254-1b90-41f9-9fd6-d79120eae295" />
+<img width="1919" height="372" alt="Screenshot 2025-09-06 005531" src="https://github.com/user-attachments/assets/33d3d09a-e738-42c7-91dc-375420dc5ec8" />
+
